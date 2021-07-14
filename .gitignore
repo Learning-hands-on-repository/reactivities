@@ -442,3 +442,10 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+Application/bin/*
+Application/obj/*
+Persistence/bin/*
+Persistence/obj/*
+API/bin/*
+API/obj/*
